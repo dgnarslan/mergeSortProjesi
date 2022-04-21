@@ -1,0 +1,2 @@
+# mergeSortProjesi
+Patika Ödev Çalışması
